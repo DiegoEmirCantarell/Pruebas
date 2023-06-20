@@ -1,3 +1,5 @@
+//Lopez
+//nuevocomentario
 //López Cantarell Diego Emir N.Cta:318283195
 //Sistemas Operativos 
 //Objetivo
@@ -37,6 +39,7 @@ void imprimirMapaDeMemoria(int mapaDeMemoria[]) {
     printf("\n");
 }
 
+//comentarios
 
 //Funcion que imprime las areas libres de memoria,
 //mostrando la lista enlazada de areas libres y sus tamaños
